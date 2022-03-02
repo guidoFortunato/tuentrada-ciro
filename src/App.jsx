@@ -43,7 +43,7 @@ function App() {
     <>
     <VariablesProvider>
 
-      <Router basename={'/gira/ntvg'}> 
+      <Router basename={'/gira/ciro'}> 
       
 
         <Switch>
