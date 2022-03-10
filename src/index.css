@@ -93,33 +93,33 @@ h1, h2, h3, h4, h5, h6 {
     display: table;
     width: 100% !important;
     height: 100vh;
-    background: url('./img/ntvgFondo3.webp')center;
+    background: url('./img/ciroCelu.webp')center;
     background-size: cover;
     
     
   }
 
-  @media screen and (max-width: 792px) {
+  @media screen and (min-width: 576px) {
     #hero {      
-      background: url('./img/ntvgResponsive2.webp') bottom center;
+      background: url('./img/CIROfondo.webp') bottom center;
       background-size: cover;
       width: 100% !important;
     }
     #preloader {
-      background: #fff url("./img/ntvgResponsive2.webp") no-repeat bottom center;
+      background: #fff url("./img/CIROfondo.webp") no-repeat bottom center;
       background-size: cover;
       width: 100% !important;
       
     }
   }
-  @media screen and (min-width: 793px) and (max-width: 1126px){
+  @media screen and (min-width: 768px){
     #hero {
-      background: url('https://www.notevagustar.com/img/disco-luz.jpg') bottom center;
+      background: url('./img/CIROfondo.webp') center center;
        background-size: cover;
        width: 100% !important;
     }
     #preloader {
-      background: #fff url("https://www.notevagustar.com/img/disco-luz.jpg") no-repeat bottom center;
+      background: url("./img/CIROfondo.webp") center center;
       background-size: cover;
       width: 100% !important;
       
