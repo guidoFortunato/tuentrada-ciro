@@ -10,20 +10,20 @@ a {
 }
 
 .btn-color{
-  background-color: #A36F40 !important;
-  border-color: #A36F40 !important;
+  background-color: #E86008 !important;
+  border-color: #E86008 !important;
   transition: all 400ms ease;
 }
 .btn-color:hover{
   background-color: #fff !important;
-  border-color: #A36F40 !important;
-  color: #A36F40 !important;
+  border-color: #E86008 !important;
+  color: #E86008 !important;
   
   
 }
 
 a:hover, a:active, a:focus {
-  color: #A36F40;
+  color: #E86008;
   outline: none;
   text-decoration: none;
 }
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   
   #hero .hero-container {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.3);
     display: table-cell;
     margin: 0;
     padding: 0;
@@ -521,7 +521,7 @@ h1, h2, h3, h4, h5, h6 {
   .section-title-divider {
     width: 50px;
     height: 3px;
-    background: #A36F40;
+    background: #E86008;
     margin: 0 auto;
     margin-bottom: 20px;
   }
@@ -1532,12 +1532,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   footer a{
-    color: #A36F40;
+    color: #E86008;
     text-decoration: none;
   }
   
   footer a:hover{
-    color: #b4855b;
+    color: #c25309;
   }
 
 
@@ -1567,13 +1567,13 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .fecha-hora__color-texto{
-      color: #A36F40;
+      color: #E86008;
       font-weight: 700;
     }
 
 
     .color-icono{
-      color: #A36F40;
+      color: #E86008;
     }
 
     .logo-consultas{
