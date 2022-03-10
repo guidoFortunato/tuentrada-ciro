@@ -47,7 +47,7 @@ const VariablesProvider = (props) => {
         imgEventos2: 'https://www.tuentrada.com/images/621f6abfc6db2.webp',
         imgEventos3: 'https://www.tuentrada.com/images/621f65495bdbf.webp',
         elementoNavbar1: 'Shows',
-        elementoNavbar2: 'Historia',
+        elementoNavbar2: 'Gira',
         elementoNavbar3: 'Imágenes',
         elementoNavbar4: 'Ubicacion',
         tituloInicio: '',
@@ -55,7 +55,7 @@ const VariablesProvider = (props) => {
         tituloHistoriaArriba: '',
         tituloHistoriaAbajo: '',
         imagenHistoria: historia,
-        descripcion1: "Luego de concluir 2021 llenando dos Luna Park y un Movistar Arena en Buenos Aires, y de comenzar 2022 agotando entradas en el Polideportivo de Mar del Plata, Ciro anuncia su regreso. Viene de comunicar su regreso a Vélez para octubre, en lo que será el quinto estadio de fútbol que haga en su carrera solista (ya se presentó en Ferro dos veces, otra en Vélez, y en River)",
+        descripcion1: "Luego de concluir 2021 llenando dos Luna Park y un Movistar Arena en Buenos Aires, y de comenzar 2022 agotando entradas en el Polideportivo de Mar del Plata, Ciro anuncia su regreso. Viene de comunicar su regreso a Vélez para octubre, en lo que será el quinto estadio de fútbol que haga en su carrera solista (ya se presentó en Ferro dos veces, otra en Vélez, y en River).",
         descripcion2: ""
         
     }
