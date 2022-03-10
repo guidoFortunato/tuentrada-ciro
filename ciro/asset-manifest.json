@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gira/ciro/static/css/main.b24b17ba.chunk.css",
+    "main.js": "/gira/ciro/static/js/main.6a6914dc.chunk.js",
+    "main.js.map": "/gira/ciro/static/js/main.6a6914dc.chunk.js.map",
+    "runtime-main.js": "/gira/ciro/static/js/runtime-main.d047bdda.js",
+    "runtime-main.js.map": "/gira/ciro/static/js/runtime-main.d047bdda.js.map",
+    "static/js/2.aa02ff28.chunk.js": "/gira/ciro/static/js/2.aa02ff28.chunk.js",
+    "static/js/2.aa02ff28.chunk.js.map": "/gira/ciro/static/js/2.aa02ff28.chunk.js.map",
+    "index.html": "/gira/ciro/index.html",
+    "static/css/main.b24b17ba.chunk.css.map": "/gira/ciro/static/css/main.b24b17ba.chunk.css.map",
+    "static/js/2.aa02ff28.chunk.js.LICENSE.txt": "/gira/ciro/static/js/2.aa02ff28.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/gira/ciro/static/media/ciroCelu.fb3b77a9.webp",
+    "static/media/historia.dd365130.webp": "/gira/ciro/static/media/historia.dd365130.webp",
+    "static/media/logo.d89aa992.png": "/gira/ciro/static/media/logo.d89aa992.png",
+    "static/media/portfolio1.ab8e1131.webp": "/gira/ciro/static/media/portfolio1.ab8e1131.webp",
+    "static/media/portfolio2.28e4a676.webp": "/gira/ciro/static/media/portfolio2.28e4a676.webp",
+    "static/media/portfolio3.3f64bd20.webp": "/gira/ciro/static/media/portfolio3.3f64bd20.webp",
+    "static/media/portfolio4.572c875a.webp": "/gira/ciro/static/media/portfolio4.572c875a.webp",
+    "static/media/portfolio5.c0b3f841.webp": "/gira/ciro/static/media/portfolio5.c0b3f841.webp",
+    "static/media/portfolio6.4c3339c9.webp": "/gira/ciro/static/media/portfolio6.4c3339c9.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d047bdda.js",
+    "static/js/2.aa02ff28.chunk.js",
+    "static/css/main.b24b17ba.chunk.css",
+    "static/js/main.6a6914dc.chunk.js"
+  ]
+}
