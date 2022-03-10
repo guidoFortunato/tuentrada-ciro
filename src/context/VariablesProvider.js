@@ -11,14 +11,6 @@ import portfolio6 from '../img/portfolio6.webp'
 import logo from '../img/logo.png'
 
 import historia from '../img/historia.webp'
-// import ntvg381 from '../img/ntvg381.webp'
-// import bahiablancaNTVG from '../img/bahiablancaNTVG.webp'
-// import lapampaNTVG from '../img/lapampaNTVG.webp'
-// import mendozaNTVG from '../img/mendozaNTVG.webp'
-// import rosarioNTVG from '../img/rosarioNTVG.webp'
-// import sanjuanNTVG from '../img/sanjuanNTVG.webp'
-// import tandilNTVG from '../img/tandilNTVG.webp'
-// import barilocheNTVG from '../img/barilocheNTVG.webp'
 
 
 export const VariablesContext = React.createContext()
