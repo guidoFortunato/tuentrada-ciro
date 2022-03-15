@@ -43,7 +43,7 @@ const VariablesProvider = (props) => {
         portfolioImg4: portfolio4,
         portfolioImg5: portfolio5,
         portfolioImg6: portfolio6,
-        imgEventos1: 'https://www.tuentrada.com/images/621f68a1531cf.webp',
+        imgEventos1: 'https://www.tuentrada.com/images/62300e06f2f33.webp',
         imgEventos2: 'https://www.tuentrada.com/images/621f6abfc6db2.webp',
         imgEventos3: 'https://www.tuentrada.com/images/621f65495bdbf.webp',
         elementoNavbar1: 'Shows',
