@@ -5,6 +5,7 @@ import portfolio3 from '../img/portfolio3.webp'
 import portfolio4 from '../img/portfolio4.webp'
 import portfolio5 from '../img/portfolio5.webp'
 import portfolio6 from '../img/portfolio6.webp'
+import cirogenerica from '../img/cirogenerica.webp'
 
 
 
@@ -46,6 +47,7 @@ const VariablesProvider = (props) => {
         imgEventos1: 'https://www.tuentrada.com/images/62300e06f2f33.webp',
         imgEventos2: 'https://www.tuentrada.com/images/621f6abfc6db2.webp',
         imgEventos3: 'https://www.tuentrada.com/images/621f65495bdbf.webp',
+        imgEventosGenerica: cirogenerica,
         elementoNavbar1: 'Shows',
         elementoNavbar2: 'Gira',
         elementoNavbar3: 'Imágenes',
