@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gira/ciro/static/css/main.b24b17ba.chunk.css",
-    "main.js": "/gira/ciro/static/js/main.8ef96424.chunk.js",
-    "main.js.map": "/gira/ciro/static/js/main.8ef96424.chunk.js.map",
+    "main.css": "/gira/ciro/static/css/main.35b54811.chunk.css",
+    "main.js": "/gira/ciro/static/js/main.24afa7fa.chunk.js",
+    "main.js.map": "/gira/ciro/static/js/main.24afa7fa.chunk.js.map",
     "runtime-main.js": "/gira/ciro/static/js/runtime-main.d047bdda.js",
     "runtime-main.js.map": "/gira/ciro/static/js/runtime-main.d047bdda.js.map",
     "static/js/2.aa02ff28.chunk.js": "/gira/ciro/static/js/2.aa02ff28.chunk.js",
     "static/js/2.aa02ff28.chunk.js.map": "/gira/ciro/static/js/2.aa02ff28.chunk.js.map",
     "index.html": "/gira/ciro/index.html",
-    "static/css/main.b24b17ba.chunk.css.map": "/gira/ciro/static/css/main.b24b17ba.chunk.css.map",
+    "static/css/main.35b54811.chunk.css.map": "/gira/ciro/static/css/main.35b54811.chunk.css.map",
     "static/js/2.aa02ff28.chunk.js.LICENSE.txt": "/gira/ciro/static/js/2.aa02ff28.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/gira/ciro/static/media/ciroCelu.fb3b77a9.webp",
+    "static/media/index.css": "/gira/ciro/static/media/ciroCelu.e455cbcf.webp",
     "static/media/historia.dd365130.webp": "/gira/ciro/static/media/historia.dd365130.webp",
     "static/media/logo.d89aa992.png": "/gira/ciro/static/media/logo.d89aa992.png",
     "static/media/portfolio1.ab8e1131.webp": "/gira/ciro/static/media/portfolio1.ab8e1131.webp",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.d047bdda.js",
     "static/js/2.aa02ff28.chunk.js",
-    "static/css/main.b24b17ba.chunk.css",
-    "static/js/main.8ef96424.chunk.js"
+    "static/css/main.35b54811.chunk.css",
+    "static/js/main.24afa7fa.chunk.js"
   ]
 }
