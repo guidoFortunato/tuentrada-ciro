@@ -114,7 +114,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src='https://www.tuentrada.com/images/627935f2e3ca7.webp' className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
@@ -151,7 +151,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={imgTrelew} className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
@@ -188,7 +188,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={imgBahia} className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
@@ -225,7 +225,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={imgNeuquen} className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
@@ -262,7 +262,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={imgBariloche} className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
@@ -299,7 +299,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={imgGenerica} className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
