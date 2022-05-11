@@ -130,7 +130,7 @@ const Eventos = (props) => {
                                         <div className="fecha-hora mt-1">
                                             <i className="bi bi-clock-fill color-icono me-2"></i>
                                             <span className='fecha-hora__color-texto'>Lugar: </span>
-                                            <span className='ms-1'>Junin</span>
+                                            <span className='ms-1'>Junín</span>
                                         </div>
                                         
                                         <a
