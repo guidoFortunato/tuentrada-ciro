@@ -93,42 +93,7 @@ const Eventos = (props) => {
                         <div className="row">
 
                             
-                        <div className="col-12 col-sm-6 col-md-4 col-lg-3 text-center mt-2 mb-2" >
-                            <div className="card">                                            
-                                <img src={variables.imgEventos3} className="card-img-top" alt={variables.altImg} />
-                                <div className="card-body">                                                
-                                    <h6 className='card-title'>{variables.tituloImagenes}</h6>
-            
-                                    <div className="fecha-hora">
-                                        <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
-                                        <span className='fecha-hora__color-texto'>Fecha:</span>
-                                        <span className='ms-1'>8 y 9 de abril</span>
-                                    </div>
-            
-                                    <div className="fecha-hora mt-1">
-                                        <i className="bi bi-clock-fill color-icono me-2"></i>
-                                        <span className='fecha-hora__color-texto'>Hora:</span>
-                                        <span className='ms-1'>20:30 hs</span>
-                                    </div>
-                                    <div className="fecha-hora mt-1">
-                                        <i className="bi bi-clock-fill color-icono me-2"></i>
-                                        <span className='fecha-hora__color-texto'>Lugar: </span>
-                                        <span className='ms-1'>Rosario</span>
-                                    </div>
-                                    
-                                    <a
-                                        className="btn btn-primary btn-color mt-4"
-                                        rel="noreferrer"
-                                        target='_blank'
-                                        href='https://www.tuentrada.com/eventos/detalle/rosario/262465788517'
-                                        
-                                    >
-                                        Comprar
-                                    </a>
-                                    
-                                </div>
-                            </div>
-                        </div>
+                       
                          
                                 
                             <div className="col-12 col-sm-6 col-md-4 col-lg-3 text-center mt-2 mb-2">
@@ -168,6 +133,7 @@ const Eventos = (props) => {
                                 </div>
                             </div>
 
+                           
                             <div className="col-12 col-sm-6 col-md-4 col-lg-3 text-center mt-2 mb-2" >
                                 <div className="card">                                            
                                     <img src={variables.imgEventos2} className="card-img-top" alt={variables.altImg} />
@@ -196,6 +162,42 @@ const Eventos = (props) => {
                                             rel="noreferrer"
                                             target='_blank'
                                             href='https://www.tuentrada.com/eventos/detalle/ciro/448749575919'
+                                            
+                                        >
+                                            Comprar
+                                        </a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-12 col-sm-6 col-md-4 col-lg-3 text-center mt-2 mb-2" >
+                                <div className="card">                                            
+                                    <img src='https://www.tuentrada.com/images/627935f2e3ca7.webp' className="card-img-top" alt={variables.altImg} />
+                                    <div className="card-body">                                                
+                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                
+                                        <div className="fecha-hora">
+                                            <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
+                                            <span className='fecha-hora__color-texto'>Fecha:</span>
+                                            <span className='ms-1'>19 de agosto</span>
+                                        </div>
+                
+                                        <div className="fecha-hora mt-1">
+                                            <i className="bi bi-clock-fill color-icono me-2"></i>
+                                            <span className='fecha-hora__color-texto'>Hora:</span>
+                                            <span className='ms-1'>21:00 hs</span>
+                                        </div>
+                                        <div className="fecha-hora mt-1">
+                                            <i className="bi bi-clock-fill color-icono me-2"></i>
+                                            <span className='fecha-hora__color-texto'>Lugar: </span>
+                                            <span className='ms-1'>Junin</span>
+                                        </div>
+                                        
+                                        <a
+                                            className="btn btn-primary btn-color mt-4"
+                                            rel="noreferrer"
+                                            target='_blank'
+                                            href='https://www.tuentrada.com/eventos/detalle/Ciro/500592707699'
                                             
                                         >
                                             Comprar
