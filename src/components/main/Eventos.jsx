@@ -14,7 +14,6 @@ const Eventos = (props) => {
     const {variables} = React.useContext(VariablesContext)
 
 
-
     return  (
         
             <main id="main">
@@ -40,7 +39,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={variables.imgEventos1} className="card-img-top" alt='ntvg' />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
@@ -78,7 +77,7 @@ const Eventos = (props) => {
                                 <div className="card">                                            
                                     <img src={variables.imgEventos2} className="card-img-top" alt={variables.altImg} />
                                     <div className="card-body">                                                
-                                        <h6 className='card-title'>{variables.tituloImagenes}</h6>
+                                        {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
                 
                                         <div className="fecha-hora">
                                             <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
