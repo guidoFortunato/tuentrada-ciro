@@ -343,6 +343,44 @@ const Eventos = (props) => {
                   <div className="fecha-hora">
                     <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
                     <span className="fecha-hora__color-texto">Fecha:</span>
+                    <span className="ms-1">8 de octubre</span>
+                  </div>
+
+                  <div className="fecha-hora mt-1">
+                    <i className="bi bi-clock-fill color-icono me-2"></i>
+                    <span className="fecha-hora__color-texto">Hora:</span>
+                    <span className="ms-1">22:00hs</span>
+                  </div>
+                  <div className="fecha-hora mt-1">
+                    <i className="bi bi-clock-fill color-icono me-2"></i>
+                    <span className="fecha-hora__color-texto">Lugar: </span>
+                    <span className="ms-1">Entre Ríos</span>
+                  </div>
+
+                  <a
+                    className="btn btn-primary btn-color mt-4"
+                    rel="noreferrer"
+                    target="_blank"
+                    href="https://www.tuentrada.com/eventos/detalle/CIRO-Federacion/118916599407"
+                  >
+                    Comprar
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-12 col-sm-6 col-md-4 col-lg-3 text-center mt-2 mb-2">
+              <div className="card">
+                <img
+                  src={imgGenerica}
+                  className="card-img-top"
+                  alt={variables.altImg}
+                />
+                <div className="card-body">
+                  {/* <h6 className='card-title'>{variables.tituloImagenes}</h6> */}
+
+                  <div className="fecha-hora">
+                    <i className="bi bi-calendar2-check-fill color-icono me-2"></i>
+                    <span className="fecha-hora__color-texto">Fecha:</span>
                     <span className="ms-1">22 de octubre</span>
                   </div>
 
