@@ -1,9 +1,5 @@
 import React from "react";
 import { VariablesContext } from "../../context/VariablesProvider";
-import imgTrelew from "../../img/CIROtrelew.webp";
-import imgBahia from "../../img/CIRObahia.webp";
-import imgBariloche from "../../img/CIRObariloche.webp";
-import imgNeuquen from "../../img/CIROneuquen.webp";
 import imgGenerica from "../../img/generica.webp";
 
 const Eventos = (props) => {
